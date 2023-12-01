@@ -4,6 +4,7 @@ import org.junit.jupiter.api.Test;
 
 class testSelectionSort {
 
+
 	@Test
 	void testPositives() {
 		SelectionSort list = new SelectionSort();
@@ -37,5 +38,36 @@ class testSelectionSort {
 		
 		assertArrayEquals(exp,arr);
 	}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
